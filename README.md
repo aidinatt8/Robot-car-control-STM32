@@ -13,9 +13,9 @@ I had 2 tasks:
 - power supply / batteries 
 - cable to connect the board to computer
 - *Note: The body of the car with its connections has already been built and prepared. I didn't construct the robot myself. The car is the property of the University.* 
-- ![image of car](/images/car.jpg)
+<img src="/images/car.jpg" width="300" height="200">
 - Pin configurations used in this project:
-- ![pin layout](/images/pin_diagram.png)
+<img src="/images/pin_diagram" width="200" height="200">
 
 #### Software
 - Keil Uvision 5 IDE 
