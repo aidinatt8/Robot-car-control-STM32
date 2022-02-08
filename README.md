@@ -13,9 +13,9 @@ I had 2 tasks:
 - power supply / batteries 
 - cable to connect the board to computer
 - *Note: The body of the car with its connections has already been built and prepared. I didn't construct the robot myself. The car is the property of the University.* 
-<img src="/images/car.jpg" width="300" height="200">
+<img src="/images/car.jpg" width="400" height="300">
 - Pin configurations used in this project:
-<img src="/images/pin_diagram" width="200" height="200">
+<img src="/images/pin_diagram.png" width="300" height="300">
 
 #### Software
 - Keil Uvision 5 IDE 
@@ -27,7 +27,7 @@ The demonstration video for the reference can be found [here](https://youtu.be/G
 
 ## Task2
 The path for this task is as indicated in this diagram:
-![arena](/images/path_arena.png)
+<img src="/images/path_arena.png" width="500" height="500">
 <br/>The demonstration video for the reference can be found [here](https://youtu.be/g4ZNgE-4EPs).
 <br/>Main ARM concepts used: SPI communication, USART for debugging, interrupt
 
