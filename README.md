@@ -13,7 +13,7 @@ I had 2 tasks:
 - power supply / batteries 
 - cable to connect the board to computer
 - *Note: The body of the car with its connections has already been built and prepared. I didn't construct the robot myself. The car is the property of the University.*
-- ![Pin configurations used in this project] (./pin diagram.png)
+- ![Pin configurations used in this project] (https://github.com/aidinatt8/Robot-car-control-STM32/blob/main/images/pin%20diagram.png?raw=true)
 
 #### Software
 - Keil Uvision 5 IDE 
