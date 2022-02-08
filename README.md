@@ -21,9 +21,10 @@ I had 2 tasks:
 
 ### Task 1
 The demonstration video for the reference can be found [here](https://youtu.be/Gmcn4qOGeh0).
-Some of the main concepts used: counter, PWM, timer
+Main concepts used: counter, PWM, timer
 
 ### Task2
 The path for following is as indicated in this diagram 
 ![image] (./path_arena.png)
 The demonstration video for the reference can be found [here](https://youtu.be/g4ZNgE-4EPs).
+Main concepts used 
