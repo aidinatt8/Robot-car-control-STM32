@@ -27,7 +27,7 @@ The demonstration video for the reference can be found [here](https://youtu.be/G
 
 ## Task2
 The path for this task is as indicated in this diagram:
-<img src="/images/path_arena.png" width="500" height="500">
+<img src="/images/path_arena.png" width="800" height="500">
 <br/>The demonstration video for the reference can be found [here](https://youtu.be/g4ZNgE-4EPs).
 <br/>Main ARM concepts used: SPI communication, USART for debugging, interrupt
 
