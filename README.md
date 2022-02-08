@@ -12,8 +12,10 @@ I had 2 tasks:
 - 2 Motor drivers with wheel revolution counters 
 - power supply / batteries 
 - cable to connect the board to computer
-- *Note: The body of the car with its connections has already been built and prepared. I didn't construct the robot myself. The car is the property of the University.*
-- ![Pin configurations used in this project] (https://github.com/aidinatt8/Robot-car-control-STM32/blob/main/images/pin%20diagram.png?raw=true)
+- *Note: The body of the car with its connections has already been built and prepared. I didn't construct the robot myself. The car is the property of the University.* 
+- ![image of car](/images/car top.jpg)
+- Pin configurations used in this project:
+- ![pin layout](/images/pin diagram.png)
 
 #### Software
 - Keil Uvision 5 IDE 
@@ -21,10 +23,14 @@ I had 2 tasks:
 
 ### Task 1
 The demonstration video for the reference can be found [here](https://youtu.be/Gmcn4qOGeh0).
-Main concepts used: counter, PWM, timer
+<br/> Main ARM concepts used: counter, PWM, timer
 
 ### Task2
-The path for following is as indicated in this diagram 
-![image] (./path_arena.png)
-The demonstration video for the reference can be found [here](https://youtu.be/g4ZNgE-4EPs).
-Main concepts used 
+The path for this task is as indicated in this diagram:
+![arena](/images/path_arena.png)
+<br/>The demonstration video for the reference can be found [here](https://youtu.be/g4ZNgE-4EPs).
+<br/>Main ARM concepts used: SPI communication, USART for debugging, interrupt
+
+<br/>
+<br/>
+**Detailed description of the logic applied while approaching the tasks can be found in this [brief project report](project_report.pdf)**
